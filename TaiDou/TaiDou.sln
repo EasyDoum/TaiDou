@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9A3E6B79-5593-F972-30FB-E77E8182CEA2}") = "TaiDou", "Assembly-CSharp.csproj", "{D88A052F-D839-D609-8038-1258D2903DD0}"
+EndProject
+Project("{9A3E6B79-5593-F972-30FB-E77E8182CEA2}") = "TaiDou", "Assembly-CSharp-Editor.csproj", "{00A7BC18-E74A-A3CA-D6D1-FCD5ED9E55A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88A052F-D839-D609-8038-1258D2903DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88A052F-D839-D609-8038-1258D2903DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88A052F-D839-D609-8038-1258D2903DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88A052F-D839-D609-8038-1258D2903DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A7BC18-E74A-A3CA-D6D1-FCD5ED9E55A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A7BC18-E74A-A3CA-D6D1-FCD5ED9E55A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A7BC18-E74A-A3CA-D6D1-FCD5ED9E55A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A7BC18-E74A-A3CA-D6D1-FCD5ED9E55A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
